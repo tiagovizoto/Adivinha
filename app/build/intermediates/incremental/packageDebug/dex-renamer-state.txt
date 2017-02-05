@@ -1,0 +1,7 @@
+#Sat Feb 04 20:01:28 BRST 2017
+base.0=C\:\\Users\\developer\\AndroidStudioProjects\\Adivinha\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_08924ef0cbfcd3a59996050a1b14dd10cc9f888d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\developer\\AndroidStudioProjects\\Adivinha\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b0bbcb15d4aae30b11904c8a0619b68549886363\\classes.dex
+base.1=C\:\\Users\\developer\\AndroidStudioProjects\\Adivinha\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b0bbcb15d4aae30b11904c8a0619b68549886363
+file.0=C\:\\Users\\developer\\AndroidStudioProjects\\Adivinha\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_08924ef0cbfcd3a59996050a1b14dd10cc9f888d\\classes.dex
